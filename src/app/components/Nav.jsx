@@ -32,7 +32,7 @@ const Nav = () => {
       <nav className="rounded-lg flex items-center justify-between z-10">
         <div className="logo">
           <Image
-            src="/logo.jpg" // Corrected path (Next.js uses /public folder)
+            src="./logo.jpg" // Corrected path (Next.js uses /public folder)
             alt="Logo"
             className="dark:invert rounded-full"
             width={80}
