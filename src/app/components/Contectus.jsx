@@ -25,7 +25,7 @@ const Contectus = () => {
            
            let bodyContent = JSON.stringify(data_list);
             console.log(bodyContent)    
-           let response = await fetch("http://localhost:3000/api", { 
+           let response = await fetch("./api", { 
              method: "POST",
              body: bodyContent,
              headers: headersList
