@@ -43,7 +43,7 @@ const Nav = () => {
         <ul className="flex justify-between">
           <Link href="/#Home">
             <li>
-              <p>
+              <p> 
                 <FaHome />
               </p>
               <p>Home</p>
