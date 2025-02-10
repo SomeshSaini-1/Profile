@@ -65,7 +65,7 @@ const Herosection = () => {
       className='col-span-5 place-self-center mt-4 lg:mt-0'>
         <div className='rounded-full overflow-hidden  bg-[#181818] w-[20rem] h-[20rem] lg:w-[30rem] lg:h-[30rem]  relative'>
           <Image alt='img'
-            src='/image.png'
+            src='./image.png'
             width={200}
             height={200}
             className='absolute transform -translate-x-1/2 -translate-y-1/2 top-[60%] left-1/2'

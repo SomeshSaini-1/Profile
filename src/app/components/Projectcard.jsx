@@ -6,22 +6,22 @@ import { motion } from 'framer-motion';
 const projectdata = [
   {
     title: 'Gryo',
-    image: '/project1.png',
+    image: './project1.png',
     description: "This crm for mantain the compony work."
   },
   {
     title: 'Smartswitch',
-    image: '/project2.png',
+    image: './project2.png',
     description: "This is the a Smarthome control dashboard."
   },
   {
     title: 'Airbin',
-    image: '/project3.png',
+    image: './project3.png',
     description: "This project relative to air testing and control dashboard."
   },
   {
     title: 'Feedback',
-    image: '/project7.png',
+    image: './project7.png',
     description: "This dashboard for get the feeback from multipal device's."
   }
 

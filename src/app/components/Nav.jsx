@@ -36,7 +36,7 @@ const Nav = () => {
 
         <div className="logo">
         <Image
-              src="/logo.jpg"
+              src="./logo.jpg"
               alt=" Logo"
               className="dark:invert rounded-full"
               width={80}
