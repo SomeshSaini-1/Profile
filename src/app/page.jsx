@@ -3,7 +3,7 @@ import React from 'react'
 // import Spline from './components/spline'
 import Nav from "./components/Nav"
 import Herosection from './components/Herosection'
-import Image from 'next/image'
+// import Image from 'next/image'
 import Aboutme from './components/Aboutme'
 import Service from './components/Service'
 import Projectcard from './components/Projectcard'

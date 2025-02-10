@@ -10,12 +10,12 @@ const Herosection = () => {
   const router = useRouter();
   
   const hendle_click = ()=>{
-    router.push('/#Contact')
+    router.push('/#Contact')  
   }
 
   const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "/cv.pdf"; // Path to your PDF file in the public folder
+    link.href = "./cv.pdf"; // Path to your PDF file in the public folder
     link.download = "cv.pdf"; // Filename for the downloaded PDF
     link.click();
   };
