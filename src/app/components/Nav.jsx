@@ -41,7 +41,7 @@ const Nav = () => {
           />
         </div>
         <ul className="flex justify-between">
-          <Link href="/#Home">
+          <Link href="#Home">
             <li>
               <p> 
                 <FaHome />
@@ -49,7 +49,7 @@ const Nav = () => {
               <p>Home</p>
             </li>
           </Link>
-          <Link href="/#About">
+          <Link href="#About">
             <li>
               <p>
                 <FaCommentAlt />
@@ -57,7 +57,7 @@ const Nav = () => {
               <p>About Me</p>
             </li>
           </Link>
-          <Link href="/#Services">
+          <Link href="#Services">
             <li>
               <p>
                 <RiCustomerServiceFill />
@@ -65,7 +65,7 @@ const Nav = () => {
               <p>Services</p>
             </li>
           </Link>
-          <Link href="/#Projects">
+          <Link href="#Projects">
             <li>
               <p>
                 <GrProjects />
@@ -73,7 +73,7 @@ const Nav = () => {
               <p>Projects</p>
             </li>
           </Link>
-          <Link href="/#Contact">
+          <Link href="#Contact">
             <li>
               <p>
                 <MdAddCall />
