@@ -7,22 +7,32 @@ const projectdata = [
   {
     title: 'Gryo',
     image: './project1.png',
-    description: "This crm for mantain the compony work."
+    description: "This crm for mantain the compony work.",
+    link:"https://cspv.in/Gyro/User/login.php"
   },
   {
     title: 'Smartswitch',
     image: './project2.png',
-    description: "This is the a Smarthome control dashboard."
+    description: "This is the a Smarthome control dashboard.",
+    link : "http://otplcloud.com:9004/Ldr/Login"
   },
   {
     title: 'Airbin',
     image: './project3.png',
-    description: "This project relative to air testing and control dashboard."
+    description: "This project relative to air testing and control dashboard.",
+    link : "http://otplcloud.com:27021/zylemenergy/Airbin/login"
   },
   {
     title: 'Feedback',
     image: './project7.png',
-    description: "This dashboard for get the feeback from multipal device's."
+    description: "This dashboard for get the feeback from multipal device's.",
+    link : "https://feedbackbharat.com/Oxymora-Technology/"
+  },
+  {
+    title: "Well health",
+    image: "https://someshsaini-1.github.io/Well-Health/04.jpg",
+    description: "This is a freelance project dedicated to Yuktaahara - BSR Group, aiming to reach out to people and provide information about health",
+    link : "https://someshsaini-1.github.io/Well-Health/"
   }
 
 ]
