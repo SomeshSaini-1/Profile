@@ -29,7 +29,7 @@ const Nav = () => {
       animate={{ opacity: 1, scale: 1 }}
       transition={{ duration: 0.5 }}
     >
-      <nav className="rounded-lg flex items-center justify-between z-10">
+      <nav className="rounded-lg flex md:flex-cols items-center justify-between z-10">
         <div className="logo">
           <Image
             src="./logo.jpg" // Corrected path (Next.js uses /public folder)
